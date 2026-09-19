@@ -1,0 +1,23 @@
+# Renders (reference copy lives in media/)
+*.mp4
+*.gif
+*.png
+!media/*.mp4
+animations/out/
+
+# Private inputs
+animations/local_*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Papers (copyright)
+*.pdf
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

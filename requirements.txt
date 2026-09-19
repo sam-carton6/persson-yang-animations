@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pyvista
+imageio
+imageio-ffmpeg
+Pillow
